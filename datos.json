@@ -1,0 +1,15 @@
+[
+  {
+    "codigoproducto": "01",
+    "nombreproducto": "AREPA",
+    "inventarioproducto": 25,
+    "precioproducto": 2500
+  },
+  {
+    "codigoproducto": "02",
+    "nombreproducto": "CAFE",
+    "inventarioproducto": 30,
+    "precioproducto": 1200
+  }
+  
+]
